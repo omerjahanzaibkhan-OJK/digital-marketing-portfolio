@@ -34,6 +34,9 @@ Increase organic traffic, improve keyword rankings, and generate qualified leads
 ✅ 40% more inbound calls & form submissions  
 ✅ Ranked on Google’s 1st page for 10+ target keywords  
 
+<img width="1051" height="334" alt="image" src="https://github.com/user-attachments/assets/4a5102ef-be7e-450c-8fec-94a81b3a4915" />
+
+
 - [Meta Ads: Reduced CPC by 30% for E-commerce Client](./Case-Studies/meta-cpc-optimization.md)
 - # Meta Ads Case Study: Reduced CPC by 30% (E-commerce Client)
 
