@@ -18,9 +18,73 @@ I specialize in **360° Digital Marketing** – helping brands grow through perf
 
 ## 📂 Portfolio Highlights
 - [SEO Case Study: Ranked Real Estate Client in 90 Days](./Case-Studies/seo-realestate.md)
+- # SEO Case Study: Real Estate Client
+
+## Goal
+Increase organic traffic, improve keyword rankings, and generate qualified leads for a real estate client.
+
+## Strategy
+- Performed keyword research focused on high-intent local real estate terms.  
+- Optimized website structure, meta tags, and on-page content.  
+- Built high-quality backlinks from local directories and niche blogs.  
+- Monitored performance with Google Search Console & SEMrush.  
+
+## Results
+✅ +150% organic traffic in 3 months  
+✅ 40% more inbound calls & form submissions  
+✅ Ranked on Google’s 1st page for 10+ target keywords  
+
 - [Meta Ads: Reduced CPC by 30% for E-commerce Client](./Case-Studies/meta-cpc-optimization.md)
+- # Meta Ads Case Study: Reduced CPC by 30% (E-commerce Client)
+
+## Goal
+Lower cost-per-click (CPC) and increase sales from Meta Ads campaigns.
+
+## Strategy
+- Tested multiple ad creatives (carousel, video, single image).  
+- A/B tested audiences based on interests, lookalikes, and retargeting.  
+- Used Meta Pixel for tracking purchase conversions.  
+- Adjusted bidding strategy and optimized placements.  
+
+## Results
+✅ CPC reduced by 30% within 6 weeks  
+✅ ROAS increased from 2.1x → 3.4x  
+✅ +45% more sales with same ad spend  
+
 - [WordPress: Designed Website for Nadeem Caterers](./Projects/nadeem-caterers.md)
+- # WordPress Project: Nadeem Caterers
+
+## Client
+Nadeem Caterers – Food & Catering Business in Pakistan.
+
+## Work Done
+- Designed and developed responsive WordPress website.  
+- Created SEO-friendly service pages and blog content.  
+- Integrated WhatsApp & call-to-action buttons for direct orders.  
+- Connected Google Analytics & Meta Pixel for tracking.  
+
+## Results
+✅ Improved local search visibility  
+✅ Increased direct catering orders by 35%  
+✅ Enhanced user experience with mobile-friendly design  
+
 - [Social Media: PSO Petrol Station Campaign](./Case-Studies/pso-social-media.md)
+- # Social Media Campaign: PSO Petrol Station
+
+## Goal
+Boost local awareness and engagement for PSO petrol stations.
+
+## Strategy
+- Designed branded creatives for Facebook & Instagram.  
+- Ran engagement & traffic ads targeting nearby audiences.  
+- Posted customer-focused content (discounts, offers, promotions).  
+- Set up instant lead forms for loyalty card registrations.  
+
+## Results
+✅ +70% engagement growth in 2 months  
+✅ 500+ leads collected via instant forms  
+✅ Increased foot traffic and repeat visits at petrol stations  
+
 
 ---
 
